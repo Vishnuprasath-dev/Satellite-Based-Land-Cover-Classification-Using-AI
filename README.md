@@ -1,7 +1,3 @@
-Here's a README file tailored to your **"Satellite Based Land Cover Classification System Using AI"** project, inspired by the style you used in your bone tumor X-ray project:
-
----
-
 # SATELLITE BASED LAND COVER CLASSIFICATION SYSTEM USING AI
 
 ### Presented By
@@ -163,5 +159,3 @@ Here's a README file tailored to your **"Satellite Based Land Cover Classificati
 > Required `.mat` training data should be present in the same folder (`ViT_TrainData.mat`)
 
 ---
-
-Let me know if you'd like this converted into a formatted PDF or if you want me to generate the README in Markdown format for GitHub.
