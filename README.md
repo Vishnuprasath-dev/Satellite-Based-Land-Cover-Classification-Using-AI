@@ -15,7 +15,8 @@ Here's a README file tailored to your **"Satellite Based Land Cover Classificati
 ## SATELLITE BASED LAND COVER CLASSIFICATION SYSTEM USING AI
 <table>
   <tr>
-    <td><img src="README_images/satellite1.png" width="300px"></td>
+    <td><img src="README_images/satellite1.png![t31](https://github.com/user-attachments/assets/e0811560-05a0-406c-9947-f6d729f24e65)
+" width="300px"></td>
     <td><img src="README_images/satellite2.png" width="300px"></td>
   </tr>
 </table>
