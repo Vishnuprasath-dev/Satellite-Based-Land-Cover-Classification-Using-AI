@@ -12,6 +12,7 @@
 <table>
   <tr>
     <td><img src="README_images/satellite2.png" width="300px"></td>
+    <td><img src="README_images/satellite3.png" width="300px"></td>
   </tr>
 </table>
 
