@@ -11,7 +11,8 @@
 ## SATELLITE BASED LAND COVER CLASSIFICATION SYSTEM USING AI
 <table>
   <tr>
-    <td><img src="README_images/satellite1.png" width="300px"></td>
+    ![image](https://github.com/user-attachments/assets/a0e10351-8426-44ff-a069-e781c3b12224)
+
     <td><img src="README_images/satellite2.png" width="300px"></td>
   </tr>
 </table>
